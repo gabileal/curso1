@@ -53,4 +53,6 @@ body {
     border-top: none;
 }
 
-@meidia screen and(min-width: 768%){}
+@media screen and (min-width: 768px) {
+    .botoes {
+        display: flex;
