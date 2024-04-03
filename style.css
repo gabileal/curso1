@@ -26,14 +26,15 @@ body {
      width: 100%;
      margin: 0 auto;
 }
-
+t: 2px solid var(--botao-ativo);
+    border-top
 .titulo-principal{
     text-align: left;
     width: 100%;
     font-size: 32px;
 }
 
-.titulo-principal span{
+.titulo-principal span {
      color: var(--verde);
 }
 
