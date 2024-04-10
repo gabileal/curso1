@@ -71,6 +71,7 @@ t: 2px solid var(--botao-ativo);
 
 .abas-textos{
     background-color: var(--texto-fundo);
+    padding: 40px;
 }
 
 
