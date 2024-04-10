@@ -48,7 +48,7 @@ t: 2px solid var(--botao-ativo);
     font-size: 18px;
     align-items: center;
     width: 100%; 
-    border-bottom: 4px solid var(--botao-ativo);
+    border-bottom: 4px solid var(--botao-ativo);: 0 0 40px  40px;
     border-left: 2px solid var(--botao-ativo);
     border-right: 2px solid var(--botao-ativo);
     border-top: none;
