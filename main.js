@@ -14,9 +14,9 @@ for (let i = 0; i < botoes.length; i++) {
     }
 }
 
-//Código omitido
+const contadores = document.querySelectorAll(".contador");
+const tempoObjetivo1 = new Date("2023-10-05T00:00:00");
+let tempoAtual = new Date();
 
-const contadores = document.querySelectorAll(".contador"); 
-const tempoObjetivo1 = new Date("2024-10-05"); 
+contadores[0].textContent = tempoObjetivo1 - tempoAtual;
 
-contadores[0].textContent = tempo0bjetivo1; 
