@@ -26,7 +26,7 @@ function calculaTempo(tempoObjetivo) {
     let minutos = Math.floor(segundos / 60);
     let horas = math.floor(minutos / 60);
     let dia = math.floor(horas / 24);
-    return dias + " dias " + horas + " horas " + minutos + " minuto " + segundos + "segundos";
+    return dias + " dias " + horas + " horas " + minutos + " minuto " + segundos + " segundos ";
   }
   
 
